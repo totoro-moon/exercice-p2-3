@@ -1,0 +1,11 @@
+table {
+border: medium solid black;
+width: 50%;
+}
+td, th {
+border: thin solid black;
+width: 50%
+}
+html {
+font-family: helvetica ;
+}
